@@ -1,19 +1,3 @@
-
-
-<!--
-**GPMLAD/GPMLAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Giovanni Perotto || GPMLAD
 
 ## Olá, Devs!!!
@@ -78,8 +62,7 @@ Sou Giovanni, tenho 24 anos e moro em Curitiba/PR. Encantado por educação, fí
   </a>   
 </div>
 
-<div style="width:100%; border:1px solid gray">
-</div>
+<hr>
 
 <div>
   <a style="display:flex; justify-content: space-between;" href="https://github.com/gpmlad">
