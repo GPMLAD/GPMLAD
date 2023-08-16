@@ -62,19 +62,21 @@ Sou Giovanni, tenho 24 anos e moro em Curitiba/PR. Encantado por educação, fí
 
 <div style="display:flex; gap:8px;">
   <a href="https://nextjs.org/">
-   <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40px" height="40px"/>
+   <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px" height="40px"/>
   </a>
 
   <a href="https://www.uipath.com/">
     <img alt="Ui Path" src="https://companieslogo.com/img/orig/PATH-4f96bcbf.png?t=1649160715" width="40px" height="40px" />
+  </a>
+
+  <a href="https://nestjs.com/">
+    <img alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40px" height="40px" />
   </a> 
+
+  <a href="https://www.docker.com/">
+    <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40px" height="40px" />
+  </a>
+  
 </div>
 
 <hr>
-
-<div>
-  <a style="display:flex; justify-content: space-between;" href="https://github.com/gpmlad">
-    <img style="width:48%;" height="180em" src="https://github-readme-stats.vercel.app/api?username=gpmlad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img style="width:48%;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpmlad&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
