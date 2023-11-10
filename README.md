@@ -5,7 +5,7 @@
 Sou Giovanni, tenho 24 anos e moro em Curitiba/PR. Encantado por educação, física e jogos, decidi desbravar um pouco mais esse mundo da programação a fim de unir todos esses interesses.
 
 - 🔭 Em busca de adquirir e compartilhar conhecimento;
-- 🤔 Futuramente gostaria construir ferramentas educacionais sobre comportamento dinâmico de sistemas e de aprender sobre criação de jogos;
+- 🤔 Me divirto estudando comportamento dinâmico de sistemas e sobre criação de jogos;
 - 📫 Você pode falar comigo pelo <a href="https://www.linkedin.com/in/giovanni-perotto-de-morais/">LinkedIn</a>, <a href="https://www.instagram.com/gpmlad/">Instagram</a> ou em algum repositório de um projeto já desenvolvido.
 
 ### :pushpin: Tecnologias e Ferramentas:
