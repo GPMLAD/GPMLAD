@@ -10,7 +10,7 @@ Licenciado em Física e um entusiasta apaixonado por educação, dinâmica não-
 - 📚 Focado em aprender mais sobre algoritmos e estruturas de dados para aprimorar meu raciocínio lógico e eficiência na resolução de problemas.
 
 ## 🚀 Habilidades e Tecnologias
-
+<div style="display:flex;flex-wrap: wrap; gap:3px;">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -28,6 +28,7 @@ Licenciado em Física e um entusiasta apaixonado por educação, dinâmica não-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
 
 ## 💡 Objetivos
 
